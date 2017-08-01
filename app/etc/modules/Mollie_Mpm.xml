@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<Mollie_Mpm>
+			<active>true</active>
+			<codePool>community</codePool>
+			<depends>
+				<Mage_Payment />
+			</depends>
+			<version>4.3.0</version>
+		</Mollie_Mpm>
+	</modules>
+</config>
